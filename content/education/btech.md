@@ -1,7 +1,7 @@
 ---
 title: "B.Tech in Electronics & Communication Engineering"
 description: "RVR&JC College Of Engineering"
-dateString: August 2017 - June 2021
+# dateString: August 2017 - June 2021
 draft: false
 tags: []
 showToc: false
