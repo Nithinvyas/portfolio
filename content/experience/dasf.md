@@ -3,7 +3,7 @@ title: "Data Analyst"
 description: "Sundaram Finance"
 dateString: Jan 2019 - Nov 2021
 draft: false
-tags: [Python, SQL, ETL, Talend, Apache Airflow, Apache Hadoop, Apache Spark, Amazon Redshift, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI, Talend, AWS, Git, GitHub, Slack, Microsoft Teams,Markdown]
+tags: [Python, SQL, ETL, Talend, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI]
 showToc: false
 weight: 302
 --- 
