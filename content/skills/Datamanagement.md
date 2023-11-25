@@ -1,8 +1,8 @@
 ---
 title: "Data Management and Databases"
 draft: false
-tags: [SQL, MySQL, PostgreSQL, MongoDB,Database Design, Database Modeling]
+tags: [SQL, MySQL, PostgreSQL, SQL Server, MongoDB, SSIS, Database Design, Database Modeling]
 showToc: false
-weight: 302
+weight: 303
 --- 
 

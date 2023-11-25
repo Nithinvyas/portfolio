@@ -1,7 +1,7 @@
 ---
-title: "Data Analysis and Visualization"
+title: "BI and Data Analysis Tools"
 draft: false
-tags: [Tableau, PowerBI, Looker, Pandas, NumPy, Matplotlib, Data wrangling, Regression, hypothesis testing, ANOVA]
+tags: [Tableau, Excel, PowerBI, Looker, IBM Cognos, SPSS, SAS, Powerpivot]
 showToc: false
 weight: 302
 --- 

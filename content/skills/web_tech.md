@@ -1,8 +1,8 @@
 ---
-title: "Programming Languages"
+title: "Web Technologies"
 #description: " visualisation skills"
 draft: false
-tags: [Python, R, SQL, C#]
+tags: [HTML 5, JavaScript]
 showToc: false
-weight: 301
+weight: 308
 --- 
