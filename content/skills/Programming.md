@@ -2,7 +2,7 @@
 title: "Programming Languages"
 #description: " visualisation skills"
 draft: false
-tags: [Python, R, SQL, C#]
+tags: [SQl, Python, R, C#]
 showToc: false
 weight: 301
 --- 
