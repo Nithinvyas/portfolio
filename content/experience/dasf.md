@@ -9,18 +9,18 @@ weight: 302
 --- 
 
 ### Description
-•	Led teams and managed effective work plans, ensuring successful project completions
-•	Optimized data flow in the data warehouse cycle by overseeing source analysis, transformation, ETL strategy
-•	Produced meticulous mapping spreadsheets, streamlining ETL processes by providing detailed source-to-target mapping, naming standards, data types, and transformation rules
-•	Developed dynamic business solutions and dashboards using Excel Power Pivot, DAX, and Power Query, enabling data-driven decision-making and comprehensive reporting
-•	Employed SQL scripts in extensive data analysis across diverse datasets using SQL, Python, and Excel, to enhance data accuracy in extraction/loading, resulting in a 20% efficiency boost in decision-making
-•	Crafted intricate SQL queries, optimizing database performance through indexing strategies for efficient data extraction and analysis across diverse relational databases
-•	Implemented data quality checks, reducing error rates by 25%, and optimized SQL queries for faster data retrieval, enhancing overall system performance
-•	Developed Selenium-based web scraping scripts for PR and RSS sources and optimized ETL code logic, reconfigured data structures to pandas, and streamlined file format to JSON for efficient handling
-•	Conducted scraping success tests using AWS S3 buckets, debugging, and comparing code versions, while developing Boto3 scripts to precisely compare document counts, refining ETL system performance
-•	Conducted A/B testing and implemented statistical methodologies, driving a 25% increase in conversion rates for marketing campaigns
-•	Collaborated cross-functionally to identify KPIs and implemented dashboards, enhancing operational transparency and enabling proactive decision-making
-•	Demonstrated robust problem-solving skills, proactively identifying data-related issues, and implementing effective solutions to ensure data quality and integrity throughout processes
+-	Led teams and managed effective work plans, ensuring successful project completions
+-	Optimized data flow in the data warehouse cycle by overseeing source analysis, transformation, ETL strategy
+-	Produced meticulous mapping spreadsheets, streamlining ETL processes by providing detailed source-to-target mapping, naming standards, data types, and transformation rules
+-	Developed dynamic business solutions and dashboards using Excel Power Pivot, DAX, and Power Query, enabling data-driven decision-making and comprehensive reporting
+-	Employed SQL scripts in extensive data analysis across diverse datasets using SQL, Python, and Excel, to enhance data accuracy in extraction/loading, resulting in a 20% efficiency boost in decision-making
+-	Crafted intricate SQL queries, optimizing database performance through indexing strategies for efficient data extraction and analysis across diverse relational databases
+-	Implemented data quality checks, reducing error rates by 25%, and optimized SQL queries for faster data retrieval, enhancing overall system performance
+-	Developed Selenium-based web scraping scripts for PR and RSS sources and optimized ETL code logic, reconfigured data structures to pandas, and streamlined file format to JSON for efficient handling
+-	Conducted scraping success tests using AWS S3 buckets, debugging, and comparing code versions, while developing Boto3 scripts to precisely compare document counts, refining ETL system performance
+-	Conducted A/B testing and implemented statistical methodologies, driving a 25% increase in conversion rates for marketing campaigns
+-	Collaborated cross-functionally to identify KPIs and implemented dashboards, enhancing operational transparency and enabling proactive decision-making
+-	Demonstrated robust problem-solving skills, proactively identifying data-related issues, and implementing effective solutions to ensure data quality and integrity throughout processes
 
 
 <!-- - Developed and maintained data pipelines, ensuring the seamless flow of data from source systems to data warehouses for analysis and reporting.
