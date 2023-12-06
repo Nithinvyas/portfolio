@@ -1,6 +1,6 @@
 ---
 title: "Data Analyst"
-description: "The Hartford"
+description: "Verizon"
 dateString: August 2023 - Present
 draft: false
 tags: ["Python", "R", "SQL", "Tableau"]
@@ -10,28 +10,16 @@ weight: 301
 
 ## Description
 
-- Proficiently sourced and extracted data from diverse channels such as databases, APIs, and spreadsheets to facilitate thorough analysis.
-- Conducted comprehensive statistical analyses to pinpoint trends, anomalies, and critical insights, empowering data-driven decision-making processes.
-- Oversaw the management and upkeep of extensive datasets, ensuring their integrity, quality, and accessibility for analytical purposes.
-- Crafted compelling data visualizations using tools like Tableau or Power BI, presenting findings in a visually appealing and comprehensible manner.
-- Developed predictive models to forecast future trends, bolstering business strategies and planning efforts.
-- Scripted data collection and transformation processes for an Integrated Data Warehouse, including the creation of Pricing
-and what-if Analysis.
-- Enhanced performance by modifying existing Procedures, Functions, Views, and Packages using PL/SQL.
-- Designed and delivered engaging PowerPoint and Mood Media presentations, as well as company-wide email
-correspondence.
-- Executed comprehensive data gathering, analysis, and interpretation of complex business data.
-- Produced detailed reports and dashboards to identify potential areas for improvement.
-- Formulated data models to measure trends and forecast future data scenarios.
-- Identified improvement opportunities and presented viable solutions to stakeholders.
-- Generated visualizations and reports to present data in an easily understandable format.
-- Delivered data reports to senior management, providing valuable insights.
-- Implemented data cleaning and transformation processes to eliminate errors and enhance data reliability.
-- Collaborated with various departments to understand their data needs, offering analytical support to achieve
-departmental goals.
-- Designed and generated custom reports and dashboards, enhancing data accessibility for stakeholders.
-- Contributed to process improvement by identifying and addressing data-related inefficiencies, implementing streamlined
-workflows.
+•	Proficiently extracted and curated diverse datasets from databases, APIs, and spreadsheets, ensuring a robust foundation for comprehensive analysis
+•	Conducted rigorous statistical analyses, identifying trends and anomalies pivotal for informed, data-driven decision-making processes
+•	Managed and maintained extensive datasets with unwavering focus on integrity, quality, and accessibility, bolstering analytical endeavors across the organization
+•	Created captivating data visualizations using tools like Tableau and Power BI, translating intricate insights into visually compelling presentations for stakeholders
+•	Developed predictive models adept at forecasting future trends, offering invaluable insights to fortify business strategies and planning efforts
+•	Scripted data collection and transformation processes for an Integrated Data Warehouse, implementing Pricing and what-if Analysis
+•	Enhanced system performance by skillfully modifying existing Procedures, Functions, Views, and Packages using PL/SQL
+•	Designed and delivered impactful presentations using PowerPoint and Mood Media, effectively communicating data-driven insights to diverse audiences
+•	Executed comprehensive data gathering, analysis, and interpretation of complex business data, crucially contributing to strategic decision-making processes
+•	Produced detailed reports and dashboards, highlighting improvement areas, and providing actionable recommendations to stakeholders
 
 
 <!-- - Conducted in-depth analysis of datasets using Python resulting in a 20% improvement in data quality and accuracy.

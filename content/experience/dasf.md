@@ -1,6 +1,6 @@
 ---
 title: "Data Analyst"
-description: "Sundaram Finance"
+description: "Coforge"
 dateString: Jan 2019 - Nov 2021
 draft: false
 tags: [Python, SQL, ETL, Talend, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI]
@@ -9,16 +9,19 @@ weight: 302
 --- 
 
 ### Description
+•	Led teams and managed effective work plans, ensuring successful project completions
+•	Optimized data flow in the data warehouse cycle by overseeing source analysis, transformation, ETL strategy
+•	Produced meticulous mapping spreadsheets, streamlining ETL processes by providing detailed source-to-target mapping, naming standards, data types, and transformation rules
+•	Developed dynamic business solutions and dashboards using Excel Power Pivot, DAX, and Power Query, enabling data-driven decision-making and comprehensive reporting
+•	Employed SQL scripts in extensive data analysis across diverse datasets using SQL, Python, and Excel, to enhance data accuracy in extraction/loading, resulting in a 20% efficiency boost in decision-making
+•	Crafted intricate SQL queries, optimizing database performance through indexing strategies for efficient data extraction and analysis across diverse relational databases
+•	Implemented data quality checks, reducing error rates by 25%, and optimized SQL queries for faster data retrieval, enhancing overall system performance
+•	Developed Selenium-based web scraping scripts for PR and RSS sources and optimized ETL code logic, reconfigured data structures to pandas, and streamlined file format to JSON for efficient handling
+•	Conducted scraping success tests using AWS S3 buckets, debugging, and comparing code versions, while developing Boto3 scripts to precisely compare document counts, refining ETL system performance
+•	Conducted A/B testing and implemented statistical methodologies, driving a 25% increase in conversion rates for marketing campaigns
+•	Collaborated cross-functionally to identify KPIs and implemented dashboards, enhancing operational transparency and enabling proactive decision-making
+•	Demonstrated robust problem-solving skills, proactively identifying data-related issues, and implementing effective solutions to ensure data quality and integrity throughout processes
 
-- Developed comprehensive work plans, adeptly managing deadlines and orchestrating project teams and sub-teams to ensure the successful completion of data projects.
-- Played a pivotal role in the project cycle plan for the data warehouse, encompassing source data analysis, data extraction, transformation, and the design of ETL loading strategies.
-- Produced detailed mapping spreadsheets for the ETL team, streamlining data transformation through the provision of source-to-target mapping, naming standards, data types, volumetric information, domain definitions, transformation rules, and corporate metadata definitions.
-- Designed and implemented a business application automating the calculation and distribution of sales commissions to the HR and finance departments, significantly enhancing efficiency and accuracy.
-- Developed dynamic business solutions and dashboards using Excel Power Pivot, DAX, and Power Query, facilitating data- driven decision-making and reporting.
-- Conducted in-depth data analysis, drawing conclusions, and formulating recommendations, utilizing SQL scripts for data manipulation during loads and extracts to improve data quality and accuracy.
-- Specialized in data mining, transformation, and loading from source systems to target systems, ensuring seamless data integration aligned with business needs.
-- Collaborated seamlessly with cross-functional teams, aligning data projects with organizational goals and priorities.
-- Demonstrated robust problem-solving skills by identifying data-related issues, devising effective solutions, and ensuring data quality and integrity.
 
 <!-- - Developed and maintained data pipelines, ensuring the seamless flow of data from source systems to data warehouses for analysis and reporting.
 - Implemented ETL processes to clean, transform, and load large datasets, enhancing data quality and making it ready for analysis.
