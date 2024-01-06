@@ -1,11 +1,11 @@
 ---
 title: "Data Analyst"
-description: "Verizon"
-dateString: August 2023 - Present
+description: "Cognizant"
+dateString: Jan 2021 - May 2021
 draft: false
 tags: ["Python", "R", "SQL", "Tableau"]
 showToc: false
-weight: 301
+weight: 303
 --- 
 
 ## Description
