@@ -1,7 +1,7 @@
 ---
 title: "Data Analyst"
-description: "Cognizant"
-dateString: Jan 2021 - May 2021
+description: "Verizon Wireless Systems"
+dateString: Aug 2023 - Jan 2024
 draft: false
 tags: ["Python", "R", "SQL", "Tableau"]
 showToc: false

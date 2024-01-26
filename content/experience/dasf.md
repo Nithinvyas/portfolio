@@ -1,7 +1,7 @@
 ---
 title: "Data Analyst"
-description: "Tata Consultancy Services"
-dateString: Jul 2021 - Dec 2021
+description: "Coforge"
+dateString: Jan 2019 - Nov 2021
 draft: false
 tags: [Python, SQL, ETL, Talend, Google BigQuery,PostgreSQL, MongoDB, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Tableau, Power BI]
 showToc: false
